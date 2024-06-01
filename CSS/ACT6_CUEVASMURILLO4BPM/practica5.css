@@ -1,0 +1,62 @@
+/NOMBRE:CUEVAS MURILLO ROSALBA ISABEL GRUPO:4BPM/
+/DAW/
+h1{
+color:#9A03FE;
+font-family:strong;
+text-align:center;
+}
+.creadores{text-align=left; color:#A59297;}
+h3{
+font-family:book antiqua;
+
+color:#5D343F;
+text-align:left;
+}
+.creador{color:#A59297;}
+
+.lista{color:black;}
+image{
+width:12%;
+height:12%;
+align:left;
+}
+.derecha{align:right}
+
+h2{
+color:red;
+text-align:left;
+}
+.tabla{text-align:center;}
+ul{
+font-family:book antiqua;
+color:darkmagenta;
+}
+p{
+text-align:right;
+color:deeppink;
+}
+h4{
+color:pink;
+font-family:times;
+}
+table{
+float:center;
+border-collapse:collapse;
+margin:25px 0;
+font-size:0.9em;
+min-width:400px;
+border-radius: 5px 5px 0 0;
+overflow:hidden;
+border:1px;
+background-color:#f3f3f3;
+}
+
+
+
+h1{
+color:#9A03FE;
+font-family:strong;
+text-align:center;
+}
+</body>
+</html>

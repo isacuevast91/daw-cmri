@@ -1,0 +1,52 @@
+/NOMBRE:CUEVAS MURILLO ROSALBA ISABEL GRUPO:4BPM/
+/DAW /
+/A CONTINUACION LE APLICAMOS CSS A LA ACT3 (ACT3.HTML) desde CSS(ACT3.CSS)/
+
+h1{
+font-family:didot;
+color:red;
+text-align:center;
+}
+h2{
+font-family:didot;
+color:red;
+text-align:center;
+}
+h3{
+font-family:calibri;
+color:maroon;
+}
+.izquierda{text-align:left;}
+.centro{text-align:center;}
+.derecha{text-align:right;}
+h4{
+font-family:arial;
+color:pink;
+text-align:right;
+}
+img{
+width:10%;
+height:10%;
+align:center;
+}
+
+h1{
+font-family:didot;
+color:red;
+text-align:center;
+}
+table{
+float:center;
+border-collapse:collapse;
+margin:25px 0;
+font-size:0.9em;
+min-width:400px;
+border-radius: 5px 5px 0 0;
+overflow:hidden;
+border:1px;
+background-color:#f3f3f3;
+}
+
+
+</body>
+</html>

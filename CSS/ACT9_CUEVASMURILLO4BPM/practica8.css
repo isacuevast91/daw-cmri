@@ -1,0 +1,80 @@
+/NOMBRE:CUEVAS MURILLO ROSALBA ISABEL GRUPO:4BPM/
+/DAW   FECHA:20/03/24/
+/A continuacion aplicamos css a la actividad 9 (ACT9.HTML) desde CSS (ACT9.CSS)/
+
+body{
+ background-color:#ECDEEB;
+}
+
+h1{
+color:#AE87AB;
+}
+h3{
+font-family:didot;
+color:#AF8CAF;
+font-size:medium;
+}
+.centro{text-align:center;}
+.derecha{text-align:right;}
+.izquierda{text-align:left;}
+
+embed{
+ width=300px; height=150px;
+}
+h2{
+color:#AE87AB;
+}
+.derecha{text-align:right;}
+.centro{text-align:center;}
+.izquierda{text-align:left;}
+h4{
+color:#723969;
+font-family:calibri;
+}
+
+
+table{
+align:left;
+width:20%;
+height:200px;
+text-align:center;
+background-color:#E6B0AA;
+border-spacing:1;
+border-color:black;
+font-size:20px;
+border-style:solid;
+border:14px;
+}
+td{
+bgcolor:#E6B0AA}
+
+.der{float:right;}
+.iz{float:left;}
+.cen{float:center;}
+.dos{
+float:center;
+border-collapse:collapse;
+margin:25px 0;
+font-size:0.9em;
+min-width:400px;
+border-radius: 5px 5px 0 0;
+overflow:hidden;
+border:1px;
+background-color:#f3f3f3;
+}
+
+
+ul{
+color:#A3758C;
+font-family:verdana;
+}
+
+}
+h5{
+color:white;
+font-family:serif;
+}
+</body>
+</html>
+
+

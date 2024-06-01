@@ -1,0 +1,85 @@
+/NOMBRE:ROSALBA ISABEL CUEVAS MURILLO GRUPO:4BPM/
+/DAW /
+/A CONTINUACION LE APLICAMOS CSS A LA ACT10(ACT10.HTML) desde CSS(ACT10.CSS)/
+
+body{
+background-image:"D:\DAW\ACT10_CUEVASMURILLO 4BPM\IMAGENES\kitty.gif";
+background-color:pink;
+}
+h1{
+color:#AE87AB;
+}
+h3{
+font-family:times;
+color:#735668;
+}
+.centro{text-align:center;}
+.derecha{text-align:right;}
+.izquierda{text-align:left;}
+
+video{
+width:15%;
+height:15%;
+}
+image{
+width:15%;
+height:25%;
+}
+h2{
+color:#AE87AB;
+}
+.derecha{text-align:right;}
+.centro{text-align:center;}
+.izquierda{text-align:left:}
+h4{
+color:#723969;
+font-family:calibri;
+}
+.derecha{text-align:right;}
+.centro{text-align:center;}
+.izquierda{text-align:left:}
+table{
+align:left;
+width:20%;
+height:200px;
+text-align:center;
+background-color:#F6DDCC;
+border-spacing:1;
+border-color:black;
+font-size:20px;
+border-style:solid;
+border:14px;
+}
+.derecha{float:right; color:pink;}
+
+.dos{
+float:center;
+border-collapse:collapse;
+margin:25px 0;
+font-size:0.9em;
+min-width:400px;
+border-radius: 5px 5px 0 0;
+overflow:hidden;
+border:1px;
+background-color:#f3f3f3;
+}
+ul{
+color:#A3758C;
+font-family:verdana;
+}
+h5{
+color:red;
+text-align:left;
+}
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+

@@ -1,0 +1,75 @@
+/NOMBRE:CUEVAS MURILLO ROSALBA ISABEL GRUPO:4BPM/
+/DAW   FECHA:20/03/24/
+/A continuacion aplicamos css a la actividad 7 (ACT7.HTML) desde CSS (ACT7.CSS)/
+
+body{
+background-color:#BD90B7;
+}
+h1{
+font-family:didot;
+color:pink;
+text-align:center;
+}
+.primero{color:black;}
+h3{
+font-family:times;
+color:#BB035C;}
+.derecha{text-align:right;}
+.centro{text-align:center;}
+.izquierda{text-align:left;}
+.niños{text-align:left; color:purple;}
+.niños2{text-align:center; color:purple;}
+.niños3{text-align:right; color:purple;}
+image{
+height:15%;
+width:15%;
+}
+table{
+aling:left;
+width:20%;
+height:200px;
+text-align:center;
+background-color:pink;
+border-spacing:1;
+border-color:black;
+font-size:20px;
+border-style:solid;
+border:14px;
+}
+.dos{
+
+float:center;
+border-collapse:collapse;
+margin:25px 0;
+font-size:0.9em;
+min-width:400px;
+border-radius: 5px 5px 0 0;
+overflow:hidden;
+border:1px;
+background-color:#f3f3f3;
+}
+td{
+border-color:black;
+}
+body{
+background-color:#BD90B7;
+}
+h2{
+font-family:courier new;
+color:#A54141;
+}
+ul{
+color:pink;
+}
+h4{
+color:pink;
+text-align:right;
+font-family:optima;
+}
+embed{
+height:300px;
+width:200px;
+float:right;
+}
+</body>
+</html>

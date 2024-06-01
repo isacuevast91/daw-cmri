@@ -1,0 +1,83 @@
+/NOMBRE:CUEVAS MURILLO ROSALBA ISABEL GRUPO:4BPM/
+/DAW   FECHA:20/03/24/
+/A continuacion aplicamos css a la actividad 8 (ACT8.HTML) desde CSS (ACT8.CSS)/
+body{
+background-color:#D69F9F;
+}
+h1{
+font-family:cambria;
+color:#D96060;
+text-align:center;
+}
+h2{
+text-align:left;
+color:pink;
+font-family:times;
+font-size:medium;
+}
+.tabla{font-family:times;color:#707B7C;}
+.p{color:purple; font-size:medium; font-family:times new roman;}
+.tabla{text-align:center;}
+img src{
+height:15%
+width:15%;
+}
+.left{float:left;}
+.right{float:right;}
+h2{
+font-family:garamond;
+color:#FADBDB;
+}
+.video{text-align:center;}
+ol{
+color:pink;
+font-family:verdana;
+}
+.canciones{color:darkpink;}
+h3{
+font-family:times;
+color:purple;
+}
+table{
+float:left;
+width:20%;
+height:200px;
+text-align:center;
+background-color:pink;
+border-spacing:1;
+border-color:black;
+font-size:20px;
+border-style:solid;
+border:14px;
+}
+.canciones{float:left; background-color:#AE8E8E;}
+.derecha{float:right;background-color:#D694A7;}
+.center{float:center;background-color:#C28093;}
+.menu{
+float:center;
+border-collapse:collapse;
+margin:25px 0;
+font-size:0.9em;
+min-width:400px;
+border-radius: 5px 5px 0 0;
+overflow:hidden;
+border:1px;
+background-color:#f3f3f3;
+}
+
+embed{
+width=300px; heigh=350px;
+float:center;
+}
+
+h4{
+color:red;
+font-family:serif;
+text-align:right;}
+
+h5{
+font-family:garamond;
+color:#FADBD8;
+}
+</body>
+</html>

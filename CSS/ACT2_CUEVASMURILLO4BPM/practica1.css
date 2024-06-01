@@ -1,0 +1,48 @@
+/NOMBRE:ROSALBA ISABEL CEUVAS MURILLO GRUPO:4BPM/
+/DAW FECHA:/
+ 
+h1{
+font-face:"helvica";
+color:"purple";
+text-align:center;
+
+}
+h2{
+font-face:"courier new";
+color:"navy";
+text-align:center;
+}
+.tabla{text-align:center;
+color:maroon;
+}
+h4{
+font-face:calibri;
+color:"teal";
+text-align:center;
+
+}
+h5{
+font-face:calibri;
+color:maroon;
+text-align:left;
+
+}
+.Alumna{color:pink; text-align:right;}
+img{
+width:10%;
+height:10%;
+align:center;
+}
+table{
+float:center;
+border-collapse:collapse;
+margin:25px 0;
+font-size:0.9em;
+min-width:400px;
+border-radius: 5px 5px 0 0;
+overflow:hidden;
+border:1px;
+background-color:#f3f3f3;
+}
+</body>
+</html>
